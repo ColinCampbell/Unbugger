@@ -1,0 +1,9 @@
+[submodule "frameworks/sproutcore"]
+	path = frameworks/sproutcore
+	url = git://github.com/sproutit/sproutcore.git
+[submodule "themes/square/chance"]
+	path = themes/square/chance
+	url = git://github.com/ialexi/Chance.git
+[submodule "frameworks/scomet"]
+	path = frameworks/scomet
+	url = git://github.com/ColinCampbell/SComet

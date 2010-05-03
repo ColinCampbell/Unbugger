@@ -1,0 +1,43 @@
+--- 
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/bootstrap/core.js: 
+  digest: 
+    value: 89acedac4f46cbdadb82886a734e71745a908849
+    mtime: 1272827888
+  scan_source: 
+    value: []
+
+    mtime: 1272827888
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/bootstrap/README: 
+  digest: 
+    value: 2d03a6fee9633e23707d1cf0dee43511132f72ed
+    mtime: 1272827888
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/bootstrap/setup_body_class_names.js: 
+  digest: 
+    value: d1b9be30265c074dbf2a95c2cb744bfb56066b9b
+    mtime: 1272827888
+  scan_source: 
+    value: 
+    - - sc_resource
+      - "'"
+      - setup_body_class_names
+    mtime: 1272827888
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/bootstrap/system: 
+  digest: 
+    value: 
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/bootstrap/system/browser.js: 
+  digest: 
+    value: 890f84ffc2f7c526e8918d608c33efc59e375d25
+    mtime: 1272828215
+  scan_source: 
+    value: []
+
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/bootstrap/system/loader.js: 
+  digest: 
+    value: 36360717ff2c73da53b85341bad15b5a508ca41a
+    mtime: 1272827888
+  scan_source: 
+    value: []
+
+    mtime: 1272827888

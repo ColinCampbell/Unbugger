@@ -1,0 +1,130 @@
+--- 
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/forms/english.lproj: 
+  digest: 
+    value: 
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/forms/english.lproj/default_styles.css: 
+  digest: 
+    value: bf89720c9848398abaf8b17f5b8cf2624b1a2893
+    mtime: 1272827889
+  scan_source: 
+    value: []
+
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/forms/english.lproj/strings.js: 
+  digest: 
+    value: 291a83b0a8cf4ab9d2a5478086db7565685ac319
+    mtime: 1272827889
+  scan_source: 
+    value: []
+
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/forms/mixins: 
+  digest: 
+    value: 
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/forms/mixins/auto_hide.js: 
+  digest: 
+    value: fdab495cf5018b9dd3db2d8e40e7cc1c29a6b51c
+    mtime: 1272827889
+  scan_source: 
+    value: []
+
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/forms/mixins/edit_mode.js: 
+  digest: 
+    value: 0735f63038224acf93be55a1d2cd2833d67331de
+    mtime: 1272827889
+  scan_source: 
+    value: []
+
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/forms/renderers: 
+  digest: 
+    value: 
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/forms/renderers/form.js: 
+  digest: 
+    value: 22e59bc6a0740ff5ab77bafa9fe7829b8a78af2f
+    mtime: 1272828215
+  scan_source: 
+    value: []
+
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/forms/renderers/form_row.js: 
+  digest: 
+    value: 9f704a67269eb94cbb2282ffb353a47b28d8f2e5
+    mtime: 1272828215
+  scan_source: 
+    value: []
+
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/forms/tests: 
+  digest: 
+    value: 
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/forms/tests/views: 
+  digest: 
+    value: 
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/forms/tests/views/form.js: 
+  digest: 
+    value: 58e616487ff232ecdeb44631f6f908a6983bb59b
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/forms/tests/views/form_checkbox_field.js: 
+  digest: 
+    value: b8b16a28110285eb85f564f31d39b57f57ee699d
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/forms/tests/views/form_field.js: 
+  digest: 
+    value: 8f76489b60068da415f8762b9b8db7a320f528be
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/forms/tests/views/form_label.js: 
+  digest: 
+    value: 4249838346868b35e8fb3b69443d4326d6ed63c1
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/forms/tests/views/form_radio_field.js: 
+  digest: 
+    value: 4f4392a8e61b555d23cfb84edb9db0fa4a84884f
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/forms/tests/views/form_row.js: 
+  digest: 
+    value: 11a29ee04bc83880ea7b20521aec7faf765b14b4
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/forms/tests/views/form_text_field.js: 
+  digest: 
+    value: 4c7f43b672df13fe129e13c4dbc4066490ae6f02
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/forms/views: 
+  digest: 
+    value: 
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/forms/views/form.js: 
+  digest: 
+    value: 1c3d97e8d74bc59cfbcd0f94a0ab6cdbdba779e0
+    mtime: 1272828215
+  scan_source: 
+    value: 
+    - - require
+      - "\""
+      - mixins/auto_hide
+    - - require
+      - "\""
+      - mixins/edit_mode
+    - - require
+      - "\""
+      - views/form_row
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/forms/views/form_row.js: 
+  digest: 
+    value: f9e6db18eb0618e7c8e8eb221431b5179af8a6fc
+    mtime: 1272828215
+  scan_source: 
+    value: 
+    - - require
+      - "\""
+      - mixins/auto_hide
+    - - require
+      - "\""
+      - mixins/edit_mode
+    mtime: 1272828215

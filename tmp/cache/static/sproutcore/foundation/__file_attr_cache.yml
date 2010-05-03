@@ -1,0 +1,1456 @@
+--- 
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/controllers: 
+  digest: 
+    value: 
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/controllers/array.js: 
+  digest: 
+    value: 043158a2381fbdc918e5f9b8648185a970e9ee08
+    mtime: 1272827889
+  scan_source: 
+    value: 
+    - - sc_require
+      - "'"
+      - controllers/controller
+    - - sc_require
+      - "'"
+      - mixins/selection_support
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/controllers/controller.js: 
+  digest: 
+    value: 084dc9039b14343e1a75e938cc243b1a8159af11
+    mtime: 1272828215
+  scan_source: 
+    value: []
+
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/controllers/object.js: 
+  digest: 
+    value: ea5c1a2029f550f1b15994ba8eeaafbb04cad463
+    mtime: 1272827889
+  scan_source: 
+    value: 
+    - - require
+      - "'"
+      - controllers/controller
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/controllers/tree.js: 
+  digest: 
+    value: ddee17614937a56ad7908d1ce62ec200d6d0660b
+    mtime: 1272827889
+  scan_source: 
+    value: 
+    - - sc_require
+      - "'"
+      - controllers/object
+    - - sc_require
+      - "'"
+      - mixins/selection_support
+    - - sc_require
+      - "'"
+      - private/tree_item_observer
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/core.js: 
+  digest: 
+    value: aa0fac957b1d0ced07af02d6efa6ef7fbc25a739
+    mtime: 1272827889
+  scan_source: 
+    value: []
+
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/debug: 
+  digest: 
+    value: 
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/debug/control_test_pane.js: 
+  digest: 
+    value: 0abc5f0f8f5bd8567977f967c475418e403d2de7
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/english.lproj: 
+  digest: 
+    value: 
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/english.lproj/blank.gif: 
+  digest: 
+    value: a1fdee122b95748d81cee426d717c05b5174fe96
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/english.lproj/bootstrap.rhtml: 
+  digest: 
+    value: 4ff8f4661c4e129859bb71b0fb3e7a9d7df0a0f3
+    mtime: 1272827889
+  scan_source: 
+    value: []
+
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/english.lproj/button_view.css: 
+  digest: 
+    value: a138e6bfc72882c929dd8fbc77a0dd28712b72ac
+    mtime: 1272827889
+  scan_source: 
+    value: []
+
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/english.lproj/core.css: 
+  digest: 
+    value: b8942185c9b9bf61f335ec8bacefe6f0623d5953
+    mtime: 1272827889
+  scan_source: 
+    value: []
+
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/english.lproj/debug: 
+  digest: 
+    value: 
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/english.lproj/debug/control-test-pane.css: 
+  digest: 
+    value: 1f8bf59e1c93d12c53aabbb8a113c2da08a4860f
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/english.lproj/images: 
+  digest: 
+    value: 
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/english.lproj/images/sproutcore-logo.png: 
+  digest: 
+    value: 653507c1c999c2fc2737c80ba5526357877b8c25
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/english.lproj/images/sproutcore-startup.png: 
+  digest: 
+    value: 99bc07a2513dfc059f0344eb7a0bcdfae9b4751a
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/english.lproj/inline_editor.css: 
+  digest: 
+    value: fdc26ee0fb7284736f4adb6f642d234f46a69c71
+    mtime: 1272827889
+  scan_source: 
+    value: []
+
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/english.lproj/label.css: 
+  digest: 
+    value: 7868caf138d77a56ef12214f76a4a69c7fc96066
+    mtime: 1272827889
+  scan_source: 
+    value: []
+
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/english.lproj/static_layout.css: 
+  digest: 
+    value: 924df49510ec0c158a528061eef490c1f8246323
+    mtime: 1272827889
+  scan_source: 
+    value: []
+
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/english.lproj/strings.js: 
+  digest: 
+    value: fc5c9fcc92ff6469d27bd0fa28c87430a75e6e1e
+    mtime: 1272827889
+  scan_source: 
+    value: 
+    - - sc_require
+      - "'"
+      - system/locale
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/english.lproj/text_field.css: 
+  digest: 
+    value: 878db90dd7377b72f4774487ec5991c593b45804
+    mtime: 1272827889
+  scan_source: 
+    value: []
+
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/english.lproj/view.css: 
+  digest: 
+    value: 6abe9d82751372d79fd6b485ded2b5fdf26cdd9b
+    mtime: 1272827889
+  scan_source: 
+    value: []
+
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/ext: 
+  digest: 
+    value: 
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/ext/object.js: 
+  digest: 
+    value: b3aa6fdd89d2649bb3a36fd6b65fef5e1ae30354
+    mtime: 1272827889
+  scan_source: 
+    value: []
+
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/ext/run_loop.js: 
+  digest: 
+    value: 93f7dc9e09fc2c8a67c278732a721920595d750b
+    mtime: 1272827889
+  scan_source: 
+    value: []
+
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/fixtures: 
+  digest: 
+    value: 
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/fixtures/file_exists.json: 
+  digest: 
+    value: ff7e35987fb4f069710ead3b9b0f4f4e0fb2300a
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/fixtures/malformed.json: 
+  digest: 
+    value: 691aa92f44a47316952542a15bb96e466b3b30a6
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/license.js: 
+  digest: 
+    value: 959c6c13478402e478edfaabfd54a24f6535d13c
+    mtime: 1272827889
+  scan_source: 
+    value: []
+
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/mixins: 
+  digest: 
+    value: 
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/mixins/auto_mixin.js: 
+  digest: 
+    value: 57a08ace12619f196c57f48d9420497cf4f2e11b
+    mtime: 1272827889
+  scan_source: 
+    value: []
+
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/mixins/auto_resize.js: 
+  digest: 
+    value: a515516de8cb1450e612b78824c44db3d5cd07f8
+    mtime: 1272828215
+  scan_source: 
+    value: []
+
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/mixins/button.js: 
+  digest: 
+    value: 2deee91afd73b8ff1d3e9f3741f7231e8ef4dcee
+    mtime: 1272827889
+  scan_source: 
+    value: []
+
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/mixins/collection_content.js: 
+  digest: 
+    value: ef89d69b37a0baabcafcf1af48315f830a219618
+    mtime: 1272827889
+  scan_source: 
+    value: []
+
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/mixins/content_display.js: 
+  digest: 
+    value: bfc60f0499a6858953e4cdc41fca465cecda278e
+    mtime: 1272827889
+  scan_source: 
+    value: []
+
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/mixins/control.js: 
+  digest: 
+    value: 0be104b5d3947e989db4cb1b62b5a08870550945
+    mtime: 1272827889
+  scan_source: 
+    value: 
+    - - sc_require
+      - "'"
+      - mixins/string
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/mixins/editable.js: 
+  digest: 
+    value: 6b5d3cf4a140b1e2c6757be78fe789d2f0fb600a
+    mtime: 1272827889
+  scan_source: 
+    value: []
+
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/mixins/flowed_layout.js: 
+  digest: 
+    value: 6dd5f96720f56fea5112ec9adec07a07dca7a83f
+    mtime: 1272828215
+  scan_source: 
+    value: []
+
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/mixins/inline_text_field.js: 
+  digest: 
+    value: 023aaf34e2e4d40b73dcfd96858d2bb1544f045c
+    mtime: 1272828215
+  scan_source: 
+    value: 
+    - - sc_require
+      - "'"
+      - views/text_field
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/mixins/responder_context.js: 
+  digest: 
+    value: 613db63223735491e0633352a4c12cd3d830ce68
+    mtime: 1272828215
+  scan_source: 
+    value: 
+    - - sc_require
+      - "'"
+      - system/responder
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/mixins/selection_support.js: 
+  digest: 
+    value: 3f28f71988d9e97c69b6b20facda33d57aff91dc
+    mtime: 1272827889
+  scan_source: 
+    value: []
+
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/mixins/static_layout.js: 
+  digest: 
+    value: c1cbe16d70b4d9c6e6c72c337f89816f2cdfd7e8
+    mtime: 1272828215
+  scan_source: 
+    value: []
+
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/mixins/string.js: 
+  digest: 
+    value: 7574f1029154c7aabad8b2678824557b9df2963e
+    mtime: 1272827889
+  scan_source: 
+    value: 
+    - - sc_require
+      - "'"
+      - system/locale
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/mixins/tree_item_content.js: 
+  digest: 
+    value: 469f32e4edcd0d852609e71c0e3bcf0abb8d84c4
+    mtime: 1272827889
+  scan_source: 
+    value: []
+
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/mixins/validatable.js: 
+  digest: 
+    value: 25f3527dab87ca5842710503a160dffa939a5ed0
+    mtime: 1272828215
+  scan_source: 
+    value: []
+
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/panes: 
+  digest: 
+    value: 
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/panes/main.js: 
+  digest: 
+    value: f287452a5b80058da500e74677b6c96b53f6b806
+    mtime: 1272827889
+  scan_source: 
+    value: 
+    - - require
+      - "'"
+      - panes/pane
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/panes/pane.js: 
+  digest: 
+    value: f9929ae87b58742aa768fe496bb77979d475ce7a
+    mtime: 1272828215
+  scan_source: 
+    value: 
+    - - sc_require
+      - "'"
+      - views/view
+    - - sc_require
+      - "'"
+      - mixins/responder_context
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/private: 
+  digest: 
+    value: 
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/private/tree_item_observer.js: 
+  digest: 
+    value: 909eb6549fa0f78b9fcb112295c41b8b89c91bf1
+    mtime: 1272827889
+  scan_source: 
+    value: 
+    - - sc_require
+      - "'"
+      - mixins/tree_item_content
+    - - sc_require
+      - "'"
+      - mixins/collection_content
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/protocols: 
+  digest: 
+    value: 
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/protocols/inline_editor_delegate.js: 
+  digest: 
+    value: 01c8673165fa964da6777e524a71202d9d984c1f
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/renderers: 
+  digest: 
+    value: 
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/renderers/control.js: 
+  digest: 
+    value: 1ffa7b9cf71857336ff1419cda2ada517a92b6a2
+    mtime: 1272828215
+  scan_source: 
+    value: 
+    - - sc_require
+      - "\""
+      - renderers/renderer
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/renderers/image.js: 
+  digest: 
+    value: 84025906e5ae71b1062c0f5c94ff9f46bf4e4e1b
+    mtime: 1272828215
+  scan_source: 
+    value: 
+    - - sc_require
+      - "\""
+      - renderers/renderer
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/renderers/label.js: 
+  digest: 
+    value: 533d181c8e92be884d985f4a215f7b092412e021
+    mtime: 1272828215
+  scan_source: 
+    value: 
+    - - sc_require
+      - "\""
+      - renderers/renderer
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/renderers/renderer.js: 
+  digest: 
+    value: 0c4d47ec925d2a302fbb5a1bb8ce1417db68426c
+    mtime: 1272828215
+  scan_source: 
+    value: 
+    - - sc_require
+      - "\""
+      - system/theme
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/renderers/title.js: 
+  digest: 
+    value: 324709eb1c9bacdca4318721535a575028055390
+    mtime: 1272828215
+  scan_source: 
+    value: 
+    - - sc_require
+      - "\""
+      - renderers/renderer
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/system: 
+  digest: 
+    value: 
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/system/application.js: 
+  digest: 
+    value: 148a4d39f76cc3af61e6333054ba1a989c4eb2c9
+    mtime: 1272828215
+  scan_source: 
+    value: 
+    - - sc_require
+      - "'"
+      - mixins/responder_context
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/system/benchmark.js: 
+  digest: 
+    value: b7700a1ce449e9efd961d71aa67bd9cd41ef4dfe
+    mtime: 1272827889
+  scan_source: 
+    value: 
+    - - sc_require
+      - "'"
+      - core
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/system/browser.js: 
+  digest: 
+    value: 211ae2eef5d8e363c70d63b2655ebfa4c8699b82
+    mtime: 1272827889
+  scan_source: 
+    value: []
+
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/system/builder.js: 
+  digest: 
+    value: 171494b79d104c2fa22420c10e0f3c8b27ac0578
+    mtime: 1272827889
+  scan_source: 
+    value: []
+
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/system/bundle.js: 
+  digest: 
+    value: 39edbfa0f41751dfe83bf190231967abddf1fa4e
+    mtime: 1272827889
+  scan_source: 
+    value: []
+
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/system/core_query.js: 
+  digest: 
+    value: eb3d91a8d6f65d705bb73c1df219ab7a30af24a2
+    mtime: 1272827889
+  scan_source: 
+    value: 
+    - - require
+      - "'"
+      - system/builder
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/system/cursor.js: 
+  digest: 
+    value: 70bffa970166663b6db3911a56e209e6da88e087
+    mtime: 1272827889
+  scan_source: 
+    value: []
+
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/system/datetime.js: 
+  digest: 
+    value: c57ca7f44ed851e79ced62ebbb7f33bc21bbb7a7
+    mtime: 1272827889
+  scan_source: 
+    value: []
+
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/system/event.js: 
+  digest: 
+    value: 29d0e1e25842d7436e959ca145e1f51d951c1c41
+    mtime: 1272828215
+  scan_source: 
+    value: 
+    - - sc_require
+      - "'"
+      - system/core_query
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/system/image_cache.js: 
+  digest: 
+    value: 020ca08632d609dcc17227032134f3f563f3d6f1
+    mtime: 1272827889
+  scan_source: 
+    value: 
+    - - sc_require
+      - "'"
+      - system/locale
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/system/json.js: 
+  digest: 
+    value: 418c2e18db51228bdccc190b7d7c02c930b614e8
+    mtime: 1272828215
+  scan_source: 
+    value: []
+
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/system/locale.js: 
+  digest: 
+    value: a9e09b1b987c56b348b445ed1588171a651317d5
+    mtime: 1272827889
+  scan_source: 
+    value: []
+
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/system/math.js: 
+  digest: 
+    value: c23214ce3c87dcabca71ddb04004a60fa4ecc96c
+    mtime: 1272827889
+  scan_source: 
+    value: []
+
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/system/page.js: 
+  digest: 
+    value: b99cfa167f7887401bc246fb630856fd6d093c78
+    mtime: 1272828215
+  scan_source: 
+    value: []
+
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/system/platform.js: 
+  digest: 
+    value: 84659854eb71db288fa24c114818deae0bd579e8
+    mtime: 1272828215
+  scan_source: 
+    value: []
+
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/system/ready.js: 
+  digest: 
+    value: 22a3bac8522bd7f4d400a0de678df589cb9871d1
+    mtime: 1272827889
+  scan_source: 
+    value: 
+    - - sc_require
+      - "'"
+      - system/event
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/system/render_context.js: 
+  digest: 
+    value: a59a33e846a6858510cbdac03ffcb45c57ab4996
+    mtime: 1272827889
+  scan_source: 
+    value: 
+    - - sc_require
+      - "'"
+      - system/builder
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/system/request.js: 
+  digest: 
+    value: 7a84afe6b42dfe6dd6e97851a2906af0c414e4af
+    mtime: 1272827889
+  scan_source: 
+    value: 
+    - - sc_require
+      - "'"
+      - system/response
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/system/responder.js: 
+  digest: 
+    value: f48f71ced1a73f0b02b6e307955426258c5f8fcb
+    mtime: 1272828215
+  scan_source: 
+    value: []
+
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/system/response.js: 
+  digest: 
+    value: b4ef1efa83d77ef3d487ec677fdc8c65c1052c46
+    mtime: 1272827889
+  scan_source: 
+    value: []
+
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/system/root_responder.js: 
+  digest: 
+    value: 936717ed8a32082c52a3c1c6c75adbf4563138c0
+    mtime: 1272828215
+  scan_source: 
+    value: 
+    - - require
+      - "'"
+      - system/ready
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/system/routes.js: 
+  digest: 
+    value: f5bb6e8b3ce0e82bd7f993d3f9903c4fc854c5de
+    mtime: 1272827889
+  scan_source: 
+    value: []
+
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/system/text_selection.js: 
+  digest: 
+    value: 84bf3c98975a4a8de47b9a39d6d35df76c4b7d28
+    mtime: 1272827889
+  scan_source: 
+    value: []
+
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/system/theme.js: 
+  digest: 
+    value: e3df3930523df619696d42c41011a5d8d9045e28
+    mtime: 1272828215
+  scan_source: 
+    value: []
+
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/system/time.js: 
+  digest: 
+    value: 669cfb6f08d5cc6e3fb8c0f1910009921a74be89
+    mtime: 1272827889
+  scan_source: 
+    value: []
+
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/system/timer.js: 
+  digest: 
+    value: 6847e73c20efdecf1c8871395b07b060771a4400
+    mtime: 1272827889
+  scan_source: 
+    value: []
+
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/system/user_defaults.js: 
+  digest: 
+    value: a54bb4fe5ac610d2c8ebf2aa485e626cb0197f47
+    mtime: 1272827889
+  scan_source: 
+    value: []
+
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/system/utils.js: 
+  digest: 
+    value: 2c29ef2c42e3def9339db03e67c06e82d495361d
+    mtime: 1272827889
+  scan_source: 
+    value: 
+    - - sc_require
+      - "'"
+      - system/browser
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/TESTING: 
+  digest: 
+    value: 00744c034202856f3ba90dc458fae81f4727c542
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests: 
+  digest: 
+    value: 
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/controllers: 
+  digest: 
+    value: 
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/controllers/array: 
+  digest: 
+    value: 
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/controllers/array/array_case.js: 
+  digest: 
+    value: c7e80176c7a21c0b73cee908b5f46728011c8aa1
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/controllers/array/enum_case.js: 
+  digest: 
+    value: 00f4a3afab896181ff6e24c752ec23a00b43ff31
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/controllers/array/null_case.js: 
+  digest: 
+    value: f579839bf6850234e7944daafefffea0199b0927
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/controllers/array/single_case.js: 
+  digest: 
+    value: 3e1e20e042029336d00af060e4769bfdcfb10a4b
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/controllers/object: 
+  digest: 
+    value: 
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/controllers/object/empty_case.js: 
+  digest: 
+    value: e0c9c43bc2dc1f022008710856c88e2fd47f2881
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/controllers/object/multiple_case.js: 
+  digest: 
+    value: 046299a64fd8eb8b1acd89b94b6b32d6f49b60ed
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/controllers/object/single_case.js: 
+  digest: 
+    value: c22865c2146821171f2162a0fe426f7e9c8fe4af
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/controllers/object/single_enumerable_case.js: 
+  digest: 
+    value: 8d78d2550688ab2556ae24ef6b8d0ce032f3f018
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/controllers/tree: 
+  digest: 
+    value: 
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/controllers/tree/outline_case.js: 
+  digest: 
+    value: dc3ee1b81a7fd5357d6cdb90d28a533f9e907ffe
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/debug: 
+  digest: 
+    value: 
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/debug/control_test_pane: 
+  digest: 
+    value: 
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/debug/control_test_pane/methods.js: 
+  digest: 
+    value: 2458ec38532b16a96e782ba1236fa7dfb1f03775
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/debug/control_test_pane/ui.js: 
+  digest: 
+    value: 1d0fba242baf64a05b1fa35da64081655c0db215
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/integration: 
+  digest: 
+    value: 
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/integration/creating_views.js: 
+  digest: 
+    value: fc95896c659b09d2bdd218d6667428b24d6f3d93
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/mixins: 
+  digest: 
+    value: 
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/mixins/button: 
+  digest: 
+    value: 
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/mixins/button/content.js: 
+  digest: 
+    value: ab7fe7c1eac17ccce431d37e09ae3f0f2d63a510
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/mixins/button/displayProperties.js: 
+  digest: 
+    value: 93b82e1e98dbbfec4fbedec0a22574bf4ec7e1ae
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/mixins/button/keyEquivalents.js: 
+  digest: 
+    value: c544d1cde00614bf15bfa21ecd0795f1ccd1204c
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/mixins/button/ui.js: 
+  digest: 
+    value: facfb018388aa1f0bb79b0a3815adde4a18fcd09
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/mixins/control: 
+  digest: 
+    value: 
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/mixins/control/content.js: 
+  digest: 
+    value: 406fc0e86cb86581dc0e12efce94718c37a3336d
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/mixins/control/displayProperties.js: 
+  digest: 
+    value: ae610a6fe1c3be65434929edebd47846b80708a3
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/mixins/inline_text_field: 
+  digest: 
+    value: 
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/mixins/inline_text_field/api.js: 
+  digest: 
+    value: 6e595c7fb337650a3b585885d849ca991b8c47b7
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/mixins/inline_text_field/beginEditing.js: 
+  digest: 
+    value: 610d53480796a587c85e9e88307f1bd7d49f64fb
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/mixins/staticLayout.js: 
+  digest: 
+    value: 2219db5e9c416c4c95e5c22114edfc7ef111277c
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/mixins/string.js: 
+  digest: 
+    value: 003bca23bc4d8ddc58dc1f591fee35a7ae3b2db7
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/mixins/validatable: 
+  digest: 
+    value: 
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/mixins/validatable/ui.js: 
+  digest: 
+    value: 4fb72a3827561c3c6379aa68b53de24999d19e98
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/private: 
+  digest: 
+    value: 
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/private/tree_item_observer: 
+  digest: 
+    value: 
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/private/tree_item_observer/flat_case.js: 
+  digest: 
+    value: 0531accefd8d5aab61ad9412f585837ce5f9d3df
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/private/tree_item_observer/group_case.js: 
+  digest: 
+    value: 390093b6b8c333e4682ec66057d0451655c5d776
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/private/tree_item_observer/outline_case.js: 
+  digest: 
+    value: ebeb4b9ab7befde6b28232bc674e8bf6707dc70e
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system: 
+  digest: 
+    value: 
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/builder.js: 
+  digest: 
+    value: c11a2f25c69425ea295ac3dd712a6d5fa074faec
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/core_query: 
+  digest: 
+    value: 
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/core_query/jquery_core.js: 
+  digest: 
+    value: 85e4c8ba8b4569d7f39bdaf046164ac01c379e91
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/core_query/jquery_dimensions.js: 
+  digest: 
+    value: 08da2c5aef2c29d01288bd0a4685d430c83fc0d4
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/core_query/jquery_selector.js: 
+  digest: 
+    value: 6210821b8e0f5d343c3cba5265f9637205796ef8
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/core_query/setClass.js: 
+  digest: 
+    value: f87e67aa4613f28d40558f6a1f7cf61b79f028f4
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/core_query/within.js: 
+  digest: 
+    value: e19e33241f3b906adc3c532bf60ee5bfaf1ff2ad
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/datetime.js: 
+  digest: 
+    value: dffc745da986b2f6c7892356ba360887891947d0
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/json.js: 
+  digest: 
+    value: 4efe075329351729c95149dc9b92007037fa0be8
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/locale.js: 
+  digest: 
+    value: 0edcc61ee8fcef5af3aa5d67c20b1674e29bd3f0
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/math.js: 
+  digest: 
+    value: dff9cb81588d65941f014765f00453f5831c4d24
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/render_context: 
+  digest: 
+    value: 
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/render_context/begin.js: 
+  digest: 
+    value: d6214b30ad2473995e56d87a6c9f090767ba1cda
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/render_context/element.js: 
+  digest: 
+    value: 6a3e82cdcb2db238feda5a5b083ad2c40e992d2d
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/render_context/end.js: 
+  digest: 
+    value: 892fda3ed8d9abcae236553d9ab7f8f69315c88f
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/render_context/get.js: 
+  digest: 
+    value: 5684e16b9ab4604ec2d0c601eb8980fd52a232a8
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/render_context/helpers_attr.js: 
+  digest: 
+    value: 09e7c965af25b6b484160878b95c6f0351587e34
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/render_context/helpers_basic.js: 
+  digest: 
+    value: 7a09e5686e39bbc24d60b4a66838b18a2a664e81
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/render_context/helpers_className.js: 
+  digest: 
+    value: a6b3998c06d70c8e8633ca285d1431ffd2555f29
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/render_context/helpers_style.js: 
+  digest: 
+    value: 0d3425a8cdba9986f8a99ecbcc2328493ad22603
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/render_context/init.js: 
+  digest: 
+    value: cedeba45e195569f1dc5af427168318b67f5ed9f
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/render_context/join.js: 
+  digest: 
+    value: e3cad930adc3f6039d194667f6122a3af739a5a6
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/render_context/push_text.js: 
+  digest: 
+    value: 944f72967b42eef1facb189470f09b4812d21450
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/render_context/tag.js: 
+  digest: 
+    value: 5460888bbacc7db3aca8a0187802c59f08c8be04
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/render_context/update.js: 
+  digest: 
+    value: 8371fad5c0abffcd6e1ce4b25de56e6e3fb51105
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/renderer.js: 
+  digest: 
+    value: c2a491ae97be5fc6d2a7c2c71b3e91de2674cc19
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/request.js: 
+  digest: 
+    value: 1481b30032db96f7ef2851f36cae48ea54a1a562
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/root_responder: 
+  digest: 
+    value: 
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/root_responder/makeKeyPane.js: 
+  digest: 
+    value: 322236878ab1cc739eabb0f6089e27b4dda2fcd4
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/root_responder/makeMainPane.js: 
+  digest: 
+    value: 49f5c3ee00705bf6604e40cbdf7c0fee228c1140
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/root_responder/makeMenuPane.js: 
+  digest: 
+    value: 3a6ca682c14a1be3a62a40940a4bcbc71ad3e4ce
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/root_responder/root_responder.js: 
+  digest: 
+    value: b3904ed0b82838193c70af31a146a3526044b9b4
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/root_responder/targetForAction.js: 
+  digest: 
+    value: 3e8ed6aa6e2889530c49276e02cef36f51bccaa6
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/routes.js: 
+  digest: 
+    value: 583792ea6b60b5904e9cee39652b0b99f2ce3de2
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/theme.js: 
+  digest: 
+    value: f02fa523537ca703f4efd1b76111ebb8ed2222a5
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/timer: 
+  digest: 
+    value: 
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/timer/invalidate.js: 
+  digest: 
+    value: 4abf692cafbb03b15514741a125654491d329250
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/timer/invokeLater.js: 
+  digest: 
+    value: 3736dfb83dcb1af8fee2354b91936f3f6ea79938
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/timer/isPaused.js: 
+  digest: 
+    value: c97872c9fcbc3d46f2804795c94f8c7d52014c55
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/timer/performAction.js: 
+  digest: 
+    value: b441df29ec012b7d1fb85865b7e213e4b80cfb60
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/timer/schedule.js: 
+  digest: 
+    value: 9c80f9645948ab8fc111b4602480e1931eab0ec4
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/user_defaults.js: 
+  digest: 
+    value: e9e2f937e59e80207ba40b2ec930e51bcb892c7c
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/utils: 
+  digest: 
+    value: 
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/utils/normalizeURL.js: 
+  digest: 
+    value: 4b75b98fb1eea82998ef649a52d82ec86ff6a14c
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/utils/range.js: 
+  digest: 
+    value: 0fc71a00bd27d9a76834651a6f224e7a4e12307c
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/system/utils/rect.js: 
+  digest: 
+    value: 3ec55e65629a0c35ce6a44e0aca2462ecc1db23f
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/validators: 
+  digest: 
+    value: 
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/validators/credit_card.js: 
+  digest: 
+    value: 20f19a410a46308eb4c83faf35fe5cb21e31b514
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/validators/date.js: 
+  digest: 
+    value: ded616a591bc88159e8b68214e67a1eadc4b8c33
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/validators/number.js: 
+  digest: 
+    value: 08af1d969e96a2db4053cdc296b8b487f5c6bb1f
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/validators/password.js: 
+  digest: 
+    value: 50f485a82148ecafc6e2aba1ef207aa28abcdc30
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/validators/validator.js: 
+  digest: 
+    value: dc5ce3d85fc3048d00971a8d2590d06345e382ba
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views: 
+  digest: 
+    value: 
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/container: 
+  digest: 
+    value: 
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/container/methods.js: 
+  digest: 
+    value: a1c91d103eab30aa9fba8f04f64384a15c6cbabe
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/container/ui.js: 
+  digest: 
+    value: 00fd69b63fe82e6350ff6ccc336dcfe457d3b8f6
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/image: 
+  digest: 
+    value: 
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/image/ui.js: 
+  digest: 
+    value: dcc9de90991890a12b6fcbe1cf43a98f4e068451
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/label: 
+  digest: 
+    value: 
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/label/ui.js: 
+  digest: 
+    value: d42f00c83260b36a3d4ae412ba65dc5425e7611a
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/main_pane.js: 
+  digest: 
+    value: e174870c7680eb45fd79d8d8c68bd7bed5a799e5
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/pane: 
+  digest: 
+    value: 
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/pane/append_remove.js: 
+  digest: 
+    value: d6c0c14bbbc99ab76556a7522a60cb0c62f8d7d4
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/pane/firstResponder.js: 
+  digest: 
+    value: f53893e8dc08815d0ba538559234a5e2324bf17f
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/pane/keyPane.js: 
+  digest: 
+    value: 107760db6d1d84ad76ea186fb1e621638686140f
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/pane/layout.js: 
+  digest: 
+    value: 811e2710a60b11459fb27fc954e73b9039c92a9a
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/pane/sendEvent.js: 
+  digest: 
+    value: a9c833a5a5c9592277997e28d6133aa6b5042237
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/pane/sendTouchEvent.js: 
+  digest: 
+    value: e6a6bfa0d2e1349193862c709e840d230b0bf87f
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/text_field: 
+  digest: 
+    value: 
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/text_field/methods.js: 
+  digest: 
+    value: 34b30633942c092a2a2cd71d64a7ceab42beae7e
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/text_field/ui.js: 
+  digest: 
+    value: 6c0cfa291bd11521aa81aa3bf0ba58eddea6894c
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/view: 
+  digest: 
+    value: 
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/view/build.js: 
+  digest: 
+    value: 2e612ded26aad49a2be4a0fe5d79dc0920db2ce4
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/view/build_children.js: 
+  digest: 
+    value: 209a79b4c1290ca156c24edf777682d981603402
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/view/clippingFrame.js: 
+  digest: 
+    value: 993e1eb996328e0f8e45f78be8173dd8830f7cff
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/view/convertFrames.js: 
+  digest: 
+    value: 6cdb4e69a4005694c56d0abb72a8c9a9cbde5b40
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/view/convertLayouts.js: 
+  digest: 
+    value: a43e3ef03e1f6f75a05031c91c1c1af2871ab158
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/view/createChildViews.js: 
+  digest: 
+    value: a94cf9c6691ca08ecc6681f13c0285fa75808f70
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/view/createLayer.js: 
+  digest: 
+    value: bd668a55a7ea5e75a8a7fe65942336946c75db98
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/view/destroyLayer.js: 
+  digest: 
+    value: 007583ccd56c213d4e892fa6f15256bbbcec1420
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/view/didAppendToDocument.js: 
+  digest: 
+    value: 57dbe4e8baf66742e4d78866504e9425a3c95f28
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/view/findLayerInParentLayer.js: 
+  digest: 
+    value: 95f596c460db8ac8941a774386249c8ef936b008
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/view/init.js: 
+  digest: 
+    value: 202b39f9f5b4176b780ffec4c0dd5b62a3fcbc2a
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/view/insertBefore.js: 
+  digest: 
+    value: 453ee70e82c81a631b7772bda0fea61ab55a9c9f
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/view/isVisible.js: 
+  digest: 
+    value: 1d5647968eaab8f52012e56ae9651a8b7cac1c24
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/view/isVisibleInWindow.js: 
+  digest: 
+    value: dafd4defb7b8647551054811e30f2bc8cb6c7d64
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/view/layer.js: 
+  digest: 
+    value: 396ca3c6a383c0bc29bf03ec3f0f80803fcb2513
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/view/layoutChildViews.js: 
+  digest: 
+    value: efabc29783e4593d008891a658a88479b2455290
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/view/layoutDidChange.js: 
+  digest: 
+    value: b9c9259b073a1af852b20b33faf9f692642b7e1a
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/view/layoutStyle.js: 
+  digest: 
+    value: 5c6a7814f2f765aa22a15526e48f882dcca971ed
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/view/nextValidKeyView.js: 
+  digest: 
+    value: 9dd2897ea573b31a5e8546c64f120e123e899940
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/view/parentViewDidChange.js: 
+  digest: 
+    value: 36e1ab22933cd3025b2dd39d212805c2de6ac0c1
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/view/prepareContext.js: 
+  digest: 
+    value: 69e72a02588672f32d8f53e6d5a03f8fc22b7195
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/view/removeChild.js: 
+  digest: 
+    value: 0457400020f53c56cd79376531e4ef67aeeec5de
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/view/render.js: 
+  digest: 
+    value: d5b8493b0815af833c720b63edc5fcf84bad1be7
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/view/renderer.js: 
+  digest: 
+    value: 01d2f3bd9db0e7f94694163b55db4e81e425c193
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/view/replaceChild.js: 
+  digest: 
+    value: fb6debaa1fec8e614003ec7e5b4cc2b8443c66b9
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/view/theme.js: 
+  digest: 
+    value: 3a7161234f1fbbe609cbf2e1c28f4ef61132d8be
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/view/updateLayer.js: 
+  digest: 
+    value: 2a4ea8ad231d0b75035ecbe03d3feab9cea10a21
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/view/updateLayerLocation.js: 
+  digest: 
+    value: e3c9d08a34ca048f7cba7f266b2d3aa462ffecc7
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/tests/views/view/viewDidResize.js: 
+  digest: 
+    value: 0a579a76c1a4639b10a224626b2feb8bfa47457a
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/validators: 
+  digest: 
+    value: 
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/validators/credit_card.js: 
+  digest: 
+    value: 147a00cb268d297895689857f05d662dd10b814f
+    mtime: 1272827889
+  scan_source: 
+    value: 
+    - - sc_require
+      - "'"
+      - validators/validator
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/validators/date.js: 
+  digest: 
+    value: 14f29b7b4f60de81e7daf0543e9de9bbb3a80574
+    mtime: 1272827889
+  scan_source: 
+    value: 
+    - - sc_require
+      - "'"
+      - validators/validator
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/validators/date_time.js: 
+  digest: 
+    value: b06ba37ba58527cdf22004c458f2b68a6513d08e
+    mtime: 1272827889
+  scan_source: 
+    value: []
+
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/validators/email.js: 
+  digest: 
+    value: f2bce7f2f620c7fa1c413c6da5e8039fce752341
+    mtime: 1272827889
+  scan_source: 
+    value: 
+    - - sc_require
+      - "'"
+      - validators/validator
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/validators/not_empty.js: 
+  digest: 
+    value: ced5938b03a9ff0f239e2d5f0804cd1bc6b96244
+    mtime: 1272827889
+  scan_source: 
+    value: 
+    - - sc_require
+      - "'"
+      - validators/validator
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/validators/number.js: 
+  digest: 
+    value: ade677d99071d4a9bd6d6f90a084494f80db6ac1
+    mtime: 1272827889
+  scan_source: 
+    value: 
+    - - sc_require
+      - "'"
+      - validators/validator
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/validators/password.js: 
+  digest: 
+    value: 99043f11fa4d083915243aca6c242b69a34839a9
+    mtime: 1272827889
+  scan_source: 
+    value: 
+    - - sc_require
+      - "'"
+      - validators/validator
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/validators/positive_integer.js: 
+  digest: 
+    value: 91ab260575a7f25909b818c5c988409a92486726
+    mtime: 1272827889
+  scan_source: 
+    value: 
+    - - sc_require
+      - "'"
+      - validators/validator
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/validators/validator.js: 
+  digest: 
+    value: 9177737c2ed7007867bc46419743f76c5974dafe
+    mtime: 1272828215
+  scan_source: 
+    value: []
+
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/views: 
+  digest: 
+    value: 
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/views/container.js: 
+  digest: 
+    value: 688263b5e8c31f960400f2ed4479ec3b1f03042a
+    mtime: 1272828215
+  scan_source: 
+    value: 
+    - - sc_require
+      - "'"
+      - views/view
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/views/field.js: 
+  digest: 
+    value: 22e191fca2fc6f381a9ea33fe3c326f9da511981
+    mtime: 1272828215
+  scan_source: 
+    value: 
+    - - sc_require
+      - "'"
+      - views/view
+    - - sc_require
+      - "'"
+      - mixins/control
+    - - sc_require
+      - "'"
+      - mixins/validatable
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/views/image.js: 
+  digest: 
+    value: 0811f9f060a85ea5030759d2b4bfa8387725935b
+    mtime: 1272827889
+  scan_source: 
+    value: 
+    - - sc_require
+      - "'"
+      - views/view
+    - - sc_require
+      - "'"
+      - mixins/control
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/views/label.js: 
+  digest: 
+    value: af3c4cf34f62585a49226e08abea754dbe5f6bd3
+    mtime: 1272828215
+  scan_source: 
+    value: 
+    - - sc_require
+      - "'"
+      - views/view
+    - - sc_require
+      - "'"
+      - mixins/control
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/views/text_field.js: 
+  digest: 
+    value: e9a3073af82aa289ce1bdb95e29879151670999e
+    mtime: 1272828215
+  scan_source: 
+    value: 
+    - - sc_require
+      - "'"
+      - views/field
+    - - sc_require
+      - "'"
+      - system/text_selection
+    - - sc_require
+      - "'"
+      - mixins/static_layout
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/foundation/views/view.js: 
+  digest: 
+    value: c45bcb0d2a732e93b1c68d237316293c5d51929c
+    mtime: 1272828215
+  scan_source: 
+    value: 
+    - - sc_require
+      - "'"
+      - system/browser
+    - - sc_require
+      - "'"
+      - system/event
+    - - sc_require
+      - "'"
+      - system/cursor
+    - - sc_require
+      - "'"
+      - system/responder
+    - - sc_require
+      - "'"
+      - mixins/string
+    mtime: 1272828215

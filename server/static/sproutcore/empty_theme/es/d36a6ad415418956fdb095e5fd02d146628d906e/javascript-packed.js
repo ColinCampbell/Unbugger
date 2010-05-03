@@ -1,1 +1,0 @@
-SC.EmptyTheme=SC.BaseTheme.extend({classNames:["sc-empty"]});SC.Theme.register("sc-empty",SC.EmptyTheme);

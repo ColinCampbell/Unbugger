@@ -1,0 +1,61 @@
+--- 
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/mobile/english.lproj: 
+  digest: 
+    value: 
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/mobile/english.lproj/core.css: 
+  digest: 
+    value: 0fc037bbbbf60ee802dd244800bf5601fc4846c5
+    mtime: 1272827889
+  scan_source: 
+    value: []
+
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/mobile/lib: 
+  digest: 
+    value: 
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/mobile/lib/index.rhtml: 
+  digest: 
+    value: d3fdacd408ccd956b7cd4b3853791856bcadab4a
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/mobile/system: 
+  digest: 
+    value: 
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/mobile/system/root_responder.js: 
+  digest: 
+    value: b340681b266fbc1090bb8063a44ba601308988e8
+    mtime: 1272827889
+  scan_source: 
+    value: []
+
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/mobile/tests: 
+  digest: 
+    value: 
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/mobile/tests/views: 
+  digest: 
+    value: 
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/mobile/tests/views/button: 
+  digest: 
+    value: 
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/mobile/tests/views/button/ui.js: 
+  digest: 
+    value: 500d3618190fd0e6c86260f78db6cf45ddfd2281
+    mtime: 1272828215
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/mobile/views: 
+  digest: 
+    value: 
+    mtime: 1272827889
+/Users/colincampbell/Documents/www/work/unbugger/frameworks/sproutcore/frameworks/mobile/views/button.js: 
+  digest: 
+    value: 2accd7f353b12fb74462b333b0471ce723f5683e
+    mtime: 1272827889
+  scan_source: 
+    value: []
+
+    mtime: 1272827889

@@ -4,6 +4,9 @@
 # ===========================================================================
 
 # Add initial buildfile information here
+config :all,
+  :build_prefix => 'server'
+
 config :unbugger,
   :required => [:sproutcore, :scomet],
   :theme => :square

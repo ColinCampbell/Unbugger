@@ -1,3 +1,4 @@
 .DS_Store
-server/static/
+tmp
 server/index.html
+server/static

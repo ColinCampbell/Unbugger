@@ -58,6 +58,7 @@ Unbugger.mainPage = SC.Page.design({
       hint: "Enter a command...",
       leftAccessoryView: SC.LabelView.design({
         layout: {left:5, top:3, width:30},
+        escapeHTML: false,
         tagName: "span",
         value: ">>>"
       }),

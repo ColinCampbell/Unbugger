@@ -43,11 +43,16 @@ function doLinking() {
         fs.symlink("static/unbugger/en/" + mostRecent + "/index.html", "index.html");
       });
     }
+
+    get('/*', function(file) {
+      return this.sendfile(file);
+    });
+
+    sys.puts("Unbugger is now ready for use.");
+
+    run();
   });
 
-  get('/*', function(file) {
-    return this.sendfile(file);
-  });
 }
 
 // symlink to the build files in the other directory
@@ -66,11 +71,12 @@ fs.stat('static', function(err, data) {
     });
     
     scbuild.addListener('exit', function(code) {
-      if (code === 0) doLinking();
+      if (code === 0) {
+        sys.puts("Build of Unbugger complete");
+        doLinking();
+      }
     });
   } else {
     doLinking();
   }
 });
-
-run();

@@ -1,3 +1,7 @@
+.sc-theme .sc-view.square.normal.sc-regular-size.sc-button-view {
+  color: #555555;
+  text-shadow: 0px 1px 1px white;
+}
 .sc-theme .sc-view.square.normal.sc-regular-size.sc-button-view .button-left {
   margin-top: -12px;
   height: 24px;
@@ -14,6 +18,30 @@
   background: static_url("images/1.png") repeat-x 0 0;
 }
 .sc-theme .sc-view.square.normal.sc-regular-size.sc-button-view .sc-button-label {
+  margin-top: -12px;
+  height: 24px;
+  padding-top: 2px;
+}
+.sc-theme .sc-view.square.normal.sc-regular-size.sc-button-view.def {
+  color: #555555;
+  text-shadow: 0px 1px 1px white;
+}
+.sc-theme .sc-view.square.normal.sc-regular-size.sc-button-view.def .button-left {
+  margin-top: -12px;
+  height: 24px;
+  background: static_url("images/1.png") no-repeat 0 -144px;
+}
+.sc-theme .sc-view.square.normal.sc-regular-size.sc-button-view.def .button-right {
+  margin-top: -12px;
+  height: 24px;
+  background: static_url("images/1.png") no-repeat 0 -120px;
+}
+.sc-theme .sc-view.square.normal.sc-regular-size.sc-button-view.def .button-middle {
+  margin-top: -12px;
+  height: 24px;
+  background: static_url("images/1.png") repeat-x 0 0;
+}
+.sc-theme .sc-view.square.normal.sc-regular-size.sc-button-view.def .sc-button-label {
   margin-top: -12px;
   height: 24px;
   padding-top: 2px;

@@ -19,7 +19,7 @@ configure(function() {
 //
 
 var messages = new MessageRelay('messages');
-var commands = new MessageRelay('commands');
+var commands = new MessageRelay('commands', false);
 
 
 // ..........................................................

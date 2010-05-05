@@ -6,7 +6,7 @@ var sys = require('sys');
 function MessageRelay(address, persist) {
   var messages = [];
   var messageQueue = new process.EventEmitter();
-  if (persist === null) persist = false;
+  if (persist === null) persist = true;
   
   var getMessages = function(since) {
     if (!since) {
